@@ -2,15 +2,13 @@
 
 ## 简介
 
-《C++ Primer 中文版（第 5 版）》学习仓库，包括**笔记**和**课后练习答案**。
+《C++ Primer 中文版（第 5 版）》学习仓库，主要**笔记**。
 
 ## 环境
 
 - system: ubuntu 16.04
 - IDE: VS Code
 - compiler: g++
-
-[豆瓣链接](https://book.douban.com/subject/25708312/)
 
 ## 目录
 
