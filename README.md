@@ -14,7 +14,7 @@
 
 - 第1章 : 预备知识  [笔记](./notes/ch01/ch01.md)
 - 第2章 : 开始学习c++  [笔记](./notes/ch02/ch02.md) 
-- 第3章 : 处理数据  [笔记](./notes/ch03/ch03.md)  [练习](./excersize/ch03.md)
+- 第3章 : 处理数据  [笔记](./notes/ch03/ch03.md) 
 - 第4章 : 表达式  [笔记](./notes/ch04.md)  [练习](./excersize/ch04.md)  
 - 第5章 : 语句  [笔记](./notes/ch05.md)  [练习](./excersize/ch05.md)
 - 第6章 : 函数  [笔记](./notes/ch06.md)  [练习](./excersize/ch06.md)
