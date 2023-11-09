@@ -16,7 +16,7 @@
 - 第2章 : 开始学习c++  [笔记](./notes/ch02/ch02.md) 
 - 第3章 : 处理数据  [笔记](./notes/ch03/ch03.md) 
 - 第4章 : 复合类型  [笔记](./notes/ch04/ch04.md)
-- 第5章 : 循环和关系表达式  [笔记](./notes/ch05/ch05.md)  [练习](./excersize/ch05.md)
+- 第5章 : 循环和关系表达式  [笔记](./notes/ch05/ch05.md)  [练习](./excersize/ch05/)
 - 第6章 : 分支语句和逻辑运算符  [笔记](./notes/ch06/ch06.md)  [练习](./excersize/ch06.md)
 - 第7章 : 类  [笔记](./notes/ch07.md)  [练习](./excersize/ch07.md)
 - 第 II 部分 : C++标准库
