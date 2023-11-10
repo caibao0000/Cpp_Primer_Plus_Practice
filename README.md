@@ -18,7 +18,7 @@
 - 第4章 : 复合类型  [笔记](./notes/ch04/ch04.md)
 - 第5章 : 循环和关系表达式  [笔记](./notes/ch05/ch05.md)  [练习](./excersize/ch05/)
 - 第6章 : 分支语句和逻辑运算符  [笔记](./notes/ch06/ch06.md)  [练习](./excersize/ch06/)
-- 第7章 : 类  [笔记](./notes/ch07.md)  [练习](./excersize/ch07.md)
+- 第7章 : 函数  [笔记](./notes/ch07/ch07.md)  [练习](./excersize/ch07)
 - 第 II 部分 : C++标准库
   - 第8章 : IO库  [笔记](./notes/ch08.md)  [练习](./excersize/ch08.md)
   - 第9章 : 顺序容器  [笔记](./notes/ch09.md)  [练习](./excersize/ch09.md)
