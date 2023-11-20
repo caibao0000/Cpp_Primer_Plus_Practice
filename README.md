@@ -20,7 +20,7 @@
 - 第6章 : 分支语句和逻辑运算符  [笔记](./notes/ch06/ch06.md)  [练习](./excersize/ch06/)
 - 第7章 : 函数  [笔记](./notes/ch07/ch07.md)  [练习](./excersize/ch07)
 - 第8章 : 函数探幽  [笔记](./notes/ch08/ch08.md)  [练习](./excersize/ch08)
-  - 第9章 : 顺序容器  [笔记](./notes/ch09.md)  [练习](./excersize/ch09.md)
+- 第9章 : 内存模型和名称空间  [笔记](./notes/ch09/ch09.md)  [练习](./excersize/ch09)
   - 第10章 : 泛型算法  [笔记](./notes/ch10.md)  [练习](./excersize/ch10.md)
   - 第11章 : 关联容器  [笔记](./notes/ch11.md)  [练习](./excersize/ch11.md)
   - 第12章 : 动态内存  [笔记](./notes/ch12.md)  [练习](./excersize/ch12.md)
