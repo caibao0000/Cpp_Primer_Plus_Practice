@@ -22,23 +22,11 @@
 - 第8章 : 函数探幽  [笔记](./notes/ch08/ch08.md)  [练习](./excersize/ch08)
 - 第9章 : 内存模型和名称空间  [笔记](./notes/ch09/ch09.md) 
 - 第10章 : 对象和类  [笔记](./notes/ch10/ch10.md)  [练习](./excersize/ch10)
-- 第11章 : 使用类  [笔记](./notes/ch11/ch11.md)  [练习](./excersize/ch11)
-- 第12章 : 类和动态内存分配  [笔记](./notes/ch12/ch12.md)  [练习](./excersize/ch12)
-- 第 III 部分 : 类设计者的工具
-  - 第13章 : 拷贝控制   [笔记](./notes/ch13.md)  [练习](./excersize/ch13.md)
-  - 第14章 : 重载与类型转换  [笔记](./notes/ch14.md)  [练习](./excersize/ch14.md)
-  - 第15章 : 面向对象程序设计  [笔记](./notes/ch15.md)  [练习](./excersize/ch15.md)
-  - 第16章 : 模版与泛型编程  [笔记](./notes/ch16.md)  [练习](./excersize/ch16.md)
-- 第 IV 部分 : 高级主题
-  - 第17章 : 标准库与特殊设施  [笔记](./notes/ch17.md)  [练习](./excersize/ch17.md)
-  - 第18章 : 用于大型程序的工具  [笔记](./notes/ch18.md)  [练习](./excersize/ch18.md)
-  - 第19章 : 特殊工具与技术  [笔记](./notes/ch19.md)  [练习](./excersize/ch19.md)
-
-## 参考
-
-- [C++ Primer 5 Answers(C++11/14)](https://github.com/Mooophy/Cpp-Primer)
-- [《C++ Primer》第五版中文版习题答案](https://github.com/huangmingchuan/Cpp_Primer_Answers)
-
-## 参与贡献
-
-本仓库由多位小伙伴一起参与编写，欢迎大家对本仓库进行补充，一起帮大家更好地理解这本“大部头”。
+- 第11章 : 使用类  [笔记](./notes/ch11/ch11.md)
+- 第12章 : 类和动态内存分配  [笔记](./notes/ch12/ch12.md) 
+- 第13章 : 类继承   [笔记](./notes/ch13/ch13.md)  [练习](./excersize/ch13.md)
+- 第14章 : C++中的代码重用  [笔记](./notes/ch14/ch14.md)  [练习](./excersize/ch14.md)
+- 第15章 : 友元、异常和其他  [笔记](./notes/ch15/ch15.md)  [练习](./excersize/ch15.md)
+- 第16章 : string类和标准模版库  [笔记](./notes/ch16/ch16.md)  [练习](./excersize/ch16.md)
+- 第17章 : 输入、输出和文件  [笔记](./notes/ch17/ch17.md)  [练习](./excersize/ch17.md)
+- 第18章 : 探讨c++新标准  [笔记](./notes/ch18/ch18.md)  [练习](./excersize/ch18.md)
